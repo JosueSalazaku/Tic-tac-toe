@@ -19,4 +19,7 @@ body {
 .square {
     width: 100px;
     height: 100px;
+    background-color: white;
+    border: solid 2px black;
+    box-sizing: border-box;
 }
